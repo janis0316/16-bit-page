@@ -1,0 +1,14 @@
+@import '../../global.css';
+@import '../base/layout.css';
+@import '../components/nav.css';
+
+.link {
+    color: var(--nav-icon-color);
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+}
+.link-text {
+    font-size: 18px;
+    line-height: 18px;
+}
